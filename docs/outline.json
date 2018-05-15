@@ -1,0 +1,18 @@
+[
+  {
+    "id": "outline-item-0",
+    "indent": 0,
+    "location": "content/OER Writing Assignment.html",
+    "order": 0,
+    "parent": null,
+    "title": "OER Writing Assignment"
+  },
+  {
+    "id": "outline-item-6",
+    "indent": 1,
+    "location": "content/.html",
+    "order": 0,
+    "parent": "outline-item-0",
+    "title": "Rubric"
+  }
+]
